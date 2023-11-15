@@ -1,0 +1,44 @@
+_repo: There-was-an-old-woman_72082
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Emshwiller, Ed
+    aliases:
+    - Emsh
+    - Emsh, Ed
+    - Alexander, Ed
+    - Emshwiller, Edmund A.
+    - Willer
+    - EMSH
+    birthdate: 1925
+    deathdate: 1990
+    gutenberg_agent_id: '25412'
+    url: http://www.gutenberg.org/2009/agents/25412
+    wikipedia: https://en.wikipedia.org/wiki/Ed_Emshwiller
+creator:
+  author:
+    agent_name: Silverberg, Robert
+    birthdate: 1935
+    gutenberg_agent_id: '28358'
+    url: http://www.gutenberg.org/2009/agents/28358
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Robert_Silverberg
+    - https://www.gutenberg.org/ebooks/author/53466
+description: ''
+gutenberg_issued: '2023-11-09'
+identifiers:
+  gutenberg: '72082'
+language: en
+pgterms:marc905: 20230917052418silverberg
+pgterms:marc906: '1958'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aNew York, NY :$bRoyal Publications, Inc., $c1958.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: There was an old woman—
+url: http://www.gutenberg.org/ebooks/72082
